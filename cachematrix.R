@@ -1,7 +1,7 @@
 ## This file was created in order to solve the Assignment number 2 of the
 ## rprog-012 Coursera course : "R Programming", 2015.
 ## The following 2 functions create a special object that stores a matrix
-## and chaches its inverse.
+## and caches its inverse.
 
 ## The function makeCacheMatrix receives a matrix as input and
 ## produces a list of functions as an output. Details on the
